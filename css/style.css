@@ -19,7 +19,7 @@
     position: absolute;
     z-index: 2; /* put .green-box above .dashed-box */
     background: lightgreen;
-    width: 20%;
+    width: 21%;
     left: 65%;
     top: -25px;
     height: 7em;
